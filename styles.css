@@ -1,0 +1,19 @@
+body{
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+img{
+    border-radius: 50%;
+}
+main{
+    padding: 20px;
+}
+footer{
+    padding: 20px;
+}
+.td{
+    padding: 8px 20px;
+}
+
